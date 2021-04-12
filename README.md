@@ -1,4 +1,4 @@
-# react-weather-pwa
+# Приложение react-weather-pwa для отображения погоды 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
